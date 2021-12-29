@@ -1,0 +1,2 @@
+Hands-on exercise #8
+Create a program that uses a switch statement with no switch expression specified.

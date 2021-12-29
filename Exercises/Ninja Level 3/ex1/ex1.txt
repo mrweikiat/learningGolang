@@ -1,0 +1,3 @@
+Exercises - Ninja Level 3
+Hands-on exercise #1
+Print every number from 1 to 10,000
