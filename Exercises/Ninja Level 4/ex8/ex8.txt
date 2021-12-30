@@ -1,0 +1,8 @@
+Hands-on exercise #8
+Create a map with a key of TYPE string which is a person’s “last_first” name, and a value of
+TYPE []string which stores their favorite things. Store three records in your map. Print out all of
+the values, along with their index position in the slice.
+Todd McLeod - Learn To Code Go on Udemy - Part 1 - Page 45
+`bond_james`, `Shaken, not stirred`, `Martinis`, `Women`
+`moneypenny_miss`, `James Bond`, `Literature`, `Computer Science`
+`no_dr`, `Being evil`, `Ice cream`, `Sunsets`
