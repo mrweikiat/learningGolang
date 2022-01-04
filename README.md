@@ -17,3 +17,14 @@ My first attempt at learning Golang using a Udemy Course provided by Todd McLeod
 |             |                 | for          |        |                   |
 
 [for more information visit here](https://medium.com/wesionary-team/know-about-25-keywords-in-go-eca109855d4d)
+
+5)
+| Section | Topic                       |
+|---------|-----------------------------|
+| 4       | Variables, values and Types |
+| 6       | Programming Fundamentals    |
+| 8       | Control flow                |
+| 10      | Grouping data               |
+| 12      | Struct                      |
+| 14      | Functions                   |
+| 16      | Pointers                    |
