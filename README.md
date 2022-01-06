@@ -21,10 +21,13 @@ My first attempt at learning Golang using a Udemy Course provided by Todd McLeod
 5)
 | Section | Topic                       |
 |---------|-----------------------------|
-| 4       | Variables, values and Types |
-| 6       | Programming Fundamentals    |
-| 8       | Control flow                |
-| 10      | Grouping data               |
-| 12      | Struct                      |
-| 14      | Functions                   |
-| 16      | Pointers                    |
+| 1       | Variables, values and Types |
+| 2       | Programming Fundamentals    |
+| 3       | Control flow                |
+| 4       | Grouping data               |
+| 5       | Struct                      |
+| 6       | Functions                   |
+| 7       | Pointers                    |
+| 8       | Application                 |
+| 9       | Concurrency                 |
+| 10      |                             |
