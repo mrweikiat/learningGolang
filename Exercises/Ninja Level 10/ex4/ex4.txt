@@ -1,0 +1,2 @@
+Hands-on exercise #4
+● pull the values off the channel using a select statement

@@ -1,0 +1,2 @@
+Hands-on exercise #3
+● pull the values off the channel using a for range loop
