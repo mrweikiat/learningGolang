@@ -1,0 +1,2 @@
+Hands-on exercise #2
+Start with this code. Create a custom error message using “fmt.Errorf”.

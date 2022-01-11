@@ -1,0 +1,3 @@
+Hands-on exercise #4
+Starting with this code, use the sqrt.Error struct as a value of type error. If you would like, use
+these numbers for your
